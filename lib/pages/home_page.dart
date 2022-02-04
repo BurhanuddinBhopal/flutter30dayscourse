@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_catalog/models/catalog.dart';
 import 'package:flutter_catalog/widget/drawer.dart';
 import 'package:flutter_catalog/widget/items_widget.dart';
+import 'dart:html';
 
 class HomePage extends StatelessWidget {
   final int days = 30;
