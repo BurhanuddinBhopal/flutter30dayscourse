@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": "Codepur001",
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://i.pinimg.com/originals/ea/e9/51/eae95120d149688406f655cf3369ea53.png"  
+        },
+        {
+            "id": "Codepur002",
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://i.pinimg.com/564x/b8/4d/38/b84d389f33fa7db9f208b00a5327bb14.jpg"
+        },
+        {
+            "id": "Codepur003",
+            "name": "M1 Mackbook Air",
+            "desc": "Apple Mackbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://i.pinimg.com/564x/36/a4/fe/36a4fef2631ae446e7728b6711f424fd.jpg"
+        },
+        {
+            "id": "Codepur004",
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://i.pinimg.com/564x/17/bb/bf/17bbbfc2e84f87c18d9847253dfa3814.jpg"
+        },
+        {
+            "id": "Codepur005",
+            "name": "Airpods Pro",
+            "desc": "Apple Airpods Pro 1st generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://i.pinimg.com/564x/10/08/2f/10082f12515a2067be5aee9a2f798ab1.jpg"
+        },
+        {
+            "id": "Codepur006",
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://i.pinimg.com/564x/00/ad/ae/00adae70468ea0f25b05b88cf046ba6e.jpg"
+        },
+        {
+            "id": "Codepur007",
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://i.pinimg.com/564x/db/3c/b3/db3cb3501e50bfb854585548ef5a29ef.jpg"
+        }
+    ]
+}
